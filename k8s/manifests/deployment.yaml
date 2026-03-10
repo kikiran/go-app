@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: go-webapp
-        image: kinnuskiran/goapp:v3
+        image: kinnuskiran/goapp: {{ .Values.image.tae }}
         ports:
         - containerPort: 8080
 
