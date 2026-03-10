@@ -1,3 +1,22 @@
+Skip to content
+kikiran
+go-app
+Repository navigation
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Go
+Add GitHub Actions workflow for Go project #1
+All jobs
+Run details
+Workflow file for this run
+.github/workflows/go.yml at 1728474
 # This workflow will build a golang project
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-go
 
