@@ -3,9 +3,9 @@
 https://go.dev/dl/
 
 # Build the project using below command
-
+```bash
 go build -o main .
-
+```
 # Go Web Application
 
 This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests.
